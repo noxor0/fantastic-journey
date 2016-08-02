@@ -6,8 +6,7 @@ Most of this is from learning Java at TCC. Couple of assignments from two quarte
 Some personal programs to teach myself concepts. Probably should ignore most of this stuff - kinda boring.
 
 
-
-Stuff to look at:
+#Stuff to look at:
 Threaded dog server
 Linked List
 Quick sort
