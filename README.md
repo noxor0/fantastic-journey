@@ -8,5 +8,7 @@ Some personal programs to teach myself concepts. Probably should ignore most of 
 
 #Stuff to look at:
 Threaded dog server
+
 Linked List
+
 Quick sort
